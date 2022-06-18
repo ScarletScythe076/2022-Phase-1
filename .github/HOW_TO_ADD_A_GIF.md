@@ -8,6 +8,7 @@
 ```md
 ![](https://media4.giphy.com/media/K04kcZhJK2KqhlwbWc/giphy.gif?cid=ecf05e47c86c3a5b60f2dba62b1e331ec05212b61574c2a9&rid=giphy.gif&ct=g)
 ```
+![](https://c.tenor.com/EwSs4cy-v6YAAAAC/rero-rero-rero-rero.gif)
 
 ## Example
 
